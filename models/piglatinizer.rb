@@ -32,6 +32,4 @@ class PigLatinizer
   end
 
 
-
-
 end
